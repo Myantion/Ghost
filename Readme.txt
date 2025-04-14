@@ -1,4 +1,5 @@
 胡乱写的勾石小游戏
+目前应该仅支持Windows系统
 双击setup就能下载
 千万不要安装到桌面
 设置中搜寻ghost可以卸载
@@ -22,3 +23,4 @@
 background 空气力学少女与少年的诗
 background1 answer
 unknown AI血狼打灰歌
+理论上您可以放任何MP3格式的音乐在Resources文件夹里
